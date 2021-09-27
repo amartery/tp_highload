@@ -14,7 +14,7 @@
 - 3,7-6,5 миллионов посещений в день
 
 ### **География (Top Countries):**
- ![distribution by country](static/dns.png)
+ ![distribution by country](https://github.com/amartery/tp_highload/blob/main/static/countries.png)
  
 ### **Расчет нагрузки**
 ### Продуктовые метрики
